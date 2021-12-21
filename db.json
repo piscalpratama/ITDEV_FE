@@ -1,0 +1,26 @@
+{
+    "penerima": [
+      {
+        "id": 1,
+        "nama": "Piscal Pratama",
+        "nik": "3204250203980001",
+        "no_kk": "3204250203980021",
+        "ktp": "-",
+        "kk": "-",
+        "umur": "23",
+        "jk": "L",
+        "provinsi": "Laki-laki",
+        "kabupaten": "Kab. Bandung",
+        "kecamatan": "Cicalengka",
+        "kelurahan": "Cikuya",
+        "alamat": "KP. Babakan DKA No. 101",
+        "rt": "05",
+        "rw": "14",
+        "penghasilan_sebelum": 1500000,
+        "penghasilan_setelah": 800000,
+        "alasan": "Kehilangan pekerjaan",
+        "date_create": "2021-12-12",
+        "date_update": "2021-12-16"
+      }
+    ]
+  }
